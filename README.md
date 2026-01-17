@@ -4,10 +4,6 @@ A modern blog application built as part of the **CA Monk Interview Assignment**,
 
 ---
 
-## 🚀 Live Demo
-
-- **Frontend (Vercel):** https://<your-vercel-url>.vercel.app  
-- **Backend API (Render):** https://<your-render-url>.onrender.com/blogs  
 
 ---
 
