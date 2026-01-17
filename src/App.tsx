@@ -11,7 +11,7 @@ import { BlogDetail } from "@/components/blog/BlogDetail";
 import { useBlogs } from "@/hooks/useBlogs";
 import { Blog } from "@/types/blog";
 import { Card } from "@/components/ui/card";
-import Footer from "@/components/layout/footer";
+import Footer from "@/components/layout/Footer";
 
 /* ---------------- Query Client ---------------- */
 const queryClient = new QueryClient({
